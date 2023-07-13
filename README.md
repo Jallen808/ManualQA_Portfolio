@@ -9,5 +9,13 @@
 ## Resume
 
 ## Skills
+__Hard Skills__
+
+__Soft Skills__
+
+__Tools__
 
 ## Examples of my Work
+__Test cases__
+
+__Bug Reports__
